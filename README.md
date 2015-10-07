@@ -19,4 +19,7 @@ ps. 对于精子主题
 * Less/Sass - 页面样式
 * Bower - 前端包管理器
 * CoffeeScript - Hexo 拓展脚本
+    `npm install -g coffee-script`
 * Gulp - 编译工具
+    `npm install -g gulp`
+    在项目下安装`npm install --save-dev gulp gulp-uglify`
