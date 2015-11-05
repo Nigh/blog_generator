@@ -1,19 +1,19 @@
 site:
-    title: InkPaper
-    subtitle: An Elegant Static Blog Generator
-    logo: -/images/avatar.jpg
+    title: void* nigh
+    subtitle: may the codes guide you.
+    logo: -/images/avator.png
     limit: 10
     theme: theme
     disqus: somebody
     lang: en
-    url: http://www.inkpaper.io/blog/
+    url: nigh.github.io
     # root: /blog
 
 authors:
     me:
-        name: InkPaper
-        intro: An Elegant Static Blog Generator
-        avatar: -/images/avatar.jpg
+        name: nigh
+        intro: nigh is going home
+        avatar: -/avator.png
 
 build:
     port: 8000
@@ -21,11 +21,11 @@ build:
     copy:
         - theme/css
         - theme/js
-        - theme/favicon.ico
+        - theme/favicon.png
         - theme/robots.txt
         - source/images
     # Excuted command when use 'ink publish'
     publish: |
         git add . -A
-        git commit -m "update"
-        git push origin
+        git commit -m "generator update"
+        git push
