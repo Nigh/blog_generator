@@ -1,13 +1,13 @@
-title: test
+title: first hexo post
 date: 2015-10-07 21:35:17 +0800
 author: me
-cover: -/images/hexologo.svg
+cover: 
 tags:
-    - Start
+    - trial
 preview: first hexo post
 
 ---
 
 ## first hexo post
 
-第一个hexo文章
+试用hexo

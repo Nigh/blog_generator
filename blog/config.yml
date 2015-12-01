@@ -1,11 +1,12 @@
 site:
     title: void* nigh
     subtitle: may the codes guide you.
-    logo: -/images/avator.png
+    logo: -/images/avatar.png
     limit: 10
-    theme: theme
-    disqus: somebody
-    lang: en
+    theme: ink_Werttin-1.0.2-beta
+    disqus: 
+    root: . #可选
+    lang: zh
     url: nigh.github.io
     # root: /blog
 
@@ -13,16 +14,16 @@ authors:
     me:
         name: nigh
         intro: nigh is going home
-        avatar: -/avator.png
+        avatar: -/images/avatar.png
 
 build:
     port: 8000
     # Copied files to public folder when build
     copy:
-        - theme/css
-        - theme/js
-        - theme/favicon.png
-        - theme/robots.txt
+        - ink_Werttin-1.0.2-beta/css
+        - ink_Werttin-1.0.2-beta/js
+        - ink_Werttin-1.0.2-beta/favicon.png
+        - ink_Werttin-1.0.2-beta/robots.txt
         - source/images
     # Excuted command when use 'ink publish'
     publish: |
