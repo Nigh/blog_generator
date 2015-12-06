@@ -2,13 +2,12 @@ site:
     title: void* nigh
     subtitle: may the codes guide you.
     logo: -/images/avatar.png
-    limit: 10
-    theme: ink_Werttin-1.0.2-beta
+    limit: 7
+    theme: Saka
     disqus: 
     root: . #可选
     lang: zh
-    url: nigh.github.io
-    # root: /blog
+    url: http://code-moe.cc/
 
 authors:
     me:
@@ -20,10 +19,10 @@ build:
     port: 8000
     # Copied files to public folder when build
     copy:
-        - ink_Werttin-1.0.2-beta/css
-        - ink_Werttin-1.0.2-beta/js
-        - ink_Werttin-1.0.2-beta/favicon.png
-        - ink_Werttin-1.0.2-beta/robots.txt
+        - Saka/css
+        - Saka/js
+        - Saka/favicon.png
+        - Saka/robots.txt
         - source/images
     # Excuted command when use 'ink publish'
     publish: |
