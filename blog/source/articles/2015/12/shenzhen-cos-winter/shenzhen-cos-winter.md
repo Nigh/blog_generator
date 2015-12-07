@@ -2,10 +2,11 @@ title: 四季漫·冬 2015 深圳
 date: 2015-12-05 18:00:00 +0800
 author: me
 cover: /images/shenzhen-cos-winter/cover.jpg
-draft: true
+<!-- draft: true -->
 tags:
     - ACG
     - cosplay
+    - moe
 preview: 
 
 ---
@@ -20,7 +21,9 @@ preview:
 
 场馆里面光线不是很好，加之没有外闪。快门都不够安全快门的。手一抖，就出了很多废片。总之还是太菜。嘛，慢慢攒经验值吧。
 
-![2](/images/shenzhen-cos-winter/2.jpg)
+放几张还看得过去的。
+
+![花阳](/images/shenzhen-cos-winter/2.jpg)
 
 
 
@@ -32,4 +35,20 @@ preview:
 
 
 
-![x4](/images/shenzhen-cos-winter/5.jpg)
+![x4!](/images/shenzhen-cos-winter/5.jpg)
+
+
+
+![舞台一](/images/shenzhen-cos-winter/6.jpg)
+
+
+
+![舞台二](/images/shenzhen-cos-winter/7.jpg)
+
+
+
+![夜夜](/images/shenzhen-cos-winter/8.jpg)
+
+
+
+## The end
