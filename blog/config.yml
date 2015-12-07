@@ -5,7 +5,7 @@ site:
     limit: 7
     theme: Saka
     disqus: 
-    root: . #可选
+    root:  #可选
     lang: zh
     url: http://code-moe.cc/
 
