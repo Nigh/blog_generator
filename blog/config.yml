@@ -8,6 +8,7 @@ site:
     root:  #可选
     lang: zh
     url: http://code-moe.cc/
+    link: "post/{year}/{month}/{title}.html"
 
 authors:
     me:
