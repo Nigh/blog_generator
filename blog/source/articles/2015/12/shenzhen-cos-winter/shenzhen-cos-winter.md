@@ -3,6 +3,8 @@ date: 2015-12-05 18:00:00 +0800
 author: me
 cover: http://7xozbx.com1.z0.glb.clouddn.com/blogshenzhen-cos-winter/cover.jpg
 <!-- draft: true -->
+config:
+    duoshuoKey: a-00002
 tags:
     - ACG
     - cosplay

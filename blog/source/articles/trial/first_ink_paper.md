@@ -5,7 +5,8 @@ cover:
 tags:
     - trial
 preview: first inkpaper post
-
+config: 
+    duoshuoKey: a-00001
 ---
 
 试用inkpaper，生成明显比hexo快多了。文章多了之后应该会更加明显。

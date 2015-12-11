@@ -6,6 +6,8 @@ tags:
     - trial
 preview: first hexo post
 
+config: 
+    duoshuoKey: a-00000
 ---
 
 ## first hexo post
