@@ -6,7 +6,7 @@ site:
     theme: Saka
     comment: code-moe   # 这里填写你的多说域名short-name
     root:  #可选
-    lang: zh
+    lang: en
     url: http://code-moe.cc/
     link: "post/{year}/{month}/{title}.html"
 
