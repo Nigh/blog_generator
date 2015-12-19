@@ -1,7 +1,7 @@
 title: 四季漫·冬 2015 深圳
 date: 2015-12-05 18:00:00 +0800
 author: me
-cover: http://7xozbx.com1.z0.glb.clouddn.com/blogshenzhen-cos-winter/cover.jpg
+cover: http://7xozbx.com1.z0.glb.clouddn.com/blogshenzhen-cos-winter/cover.png
 <!-- draft: true -->
 config:
     duoshuoKey: a-00002
