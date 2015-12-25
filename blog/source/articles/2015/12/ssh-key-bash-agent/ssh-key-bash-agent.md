@@ -2,7 +2,7 @@ title: Add ssh key for git in bash
 date: 2015-12-07 17:00:00 +0800
 author: me
 cover: 
-<!-- draft: true -->
+draft: true
 config: 
     duoshuoKey: a-00003
 tags:
