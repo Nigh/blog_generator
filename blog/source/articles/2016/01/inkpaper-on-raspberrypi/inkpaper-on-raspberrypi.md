@@ -50,3 +50,24 @@ preview:
     export PATH=$PATH:$GOROOT:GOBIN
 
 保存后重启X桌面环境，以便环境变量更改生效。重启后，执行`env`查看当前的环境变量。直接运行`go`，可以正常执行。
+
+
+然后就可以准备构建inkpaper了。在此之前，先确认你的GOPATH变量已经正确的设置了。GOPATH设置的是go的包存放的默认位置，go命令以及相关工具会去这个路径找，如果没有设置的话，会出现如下的错误。
+
+
+
+然后我们开始构建inkpaper，一条命令就够了`go get github.com/InkProject/ink`，大概需要一分钟到几分钟的时间，期间不会有任何提示，静静等待就可以了。
+
+
+构建完成。直接执行`ink`试试。正常打印出了提示信息。
+
+
+然后我们使用`ink preview $GOPATH/src/github.com/InkProject/ink/template/`，用自带的模板生成预览。
+
+
+
+
+打开浏览器，访问默认的预览地址`localhost:8000`，如下图所示。至此，inkpaper的使用环境就全部搭建完成了，当然还是希望作者能够提供raspberryPi的二进制包，免去自己构建的麻烦。虽然只是一条命令的事情，如果已经装好了go环境的话。
+
+The end.
+
