@@ -1,0 +1,6 @@
+[submodule "blog/ink-theme-story"]
+	path = blog/ink-theme-story
+	url = https://github.com/akkuman/ink-theme-story
+[submodule "blog/Saka"]
+	path = blog/Saka
+	url = https://github.com/Nigh/Saka
