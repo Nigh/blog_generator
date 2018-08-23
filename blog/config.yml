@@ -2,9 +2,9 @@ site:
     title: void* nigh
     subtitle: may the codes guide you.
     logo: -/images/avatar.png
-    limit: 7
-    theme: Saka
-    comment: code-moe   # 这里填写你的多说域名short-name
+    limit: 8
+    theme: ink-theme-story
+    comment: nigh:nigh.github.com:33cb8f2db7ecd963a797:ce8e54d19eae11b659003e983e7cd5d27ed97832   # 这里填写你的多说域名short-name
     root:  #可选
     lang: en
     url: http://code-moe.cc/
